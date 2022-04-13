@@ -1,5 +1,32 @@
 //Hacer que la funcion multiplicador() reciba 2 parametros y devuelva la multiplicacion de ambos
-/*Respuesta linea 23
+/*Respuesta linea 50
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
